@@ -30,12 +30,15 @@ The BCG project team thinks that building a churn model to understand whether pr
 
 ## Task
 Sub-Task 1:
+
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset.
 
 Sub-Task 2:
+
 Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to you to define price sensitivity and calculate it.
 
 Sub-Task 3:
+
 Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open-source datasets might be useful?
 
 ## Folder Task 2
@@ -59,12 +62,14 @@ If you’re eager to go the extra mile for the client, when you have a trained p
 Build your models and test them while keeping in mind you would need data to prove/disprove the hypotheses, as well as to test the effect of a 20% discount on customers at a high propensity to churn.
 
 ## Task
-Sub-Task 1
+Sub-Task 1:
+
 Your colleague has done some work on engineering the features within the cleaned dataset and has calculated a feature that seems to have predictive power. 
 This feature is “the difference between off-peak prices in December and January the preceding year”.
 Then try to think of ways to improve the feature’s predictive power and elaborate on why you made those choices.
 
-Sub-Task 2
+Sub-Task 2:
+
 Now that you have a dataset of cleaned and engineered features, it is time to build a predictive model to see how well these features can predict customer churning. It is your task to train a Random Forest classifier and to evaluate the results properly. We would also like you to document the advantages and disadvantages of using a Random Forest for this use case.
 
 ## Folder Task 3
